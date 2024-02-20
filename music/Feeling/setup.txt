@@ -1,0 +1,7 @@
+name Feeling
+artist KiRist
+mapper jyunni
+
+[highlight]
+start 4.0
+end 0.0
